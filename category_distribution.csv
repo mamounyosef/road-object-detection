@@ -1,0 +1,22 @@
+Category,Count,Percentage
+car,1021811,36.79
+lane/single white,353334,12.72
+traffic sign,343882,12.38
+traffic light,266032,9.58
+lane/road curb,157406,5.67
+lane/crosswalk,154228,5.55
+person,129350,4.66
+area/drivable,91625,3.3
+area/alternative,88379,3.18
+lane/double yellow,53449,1.92
+truck,42963,1.55
+lane/single yellow,28962,1.04
+bus,16502,0.59
+bike,10232,0.37
+lane/double white,8206,0.3
+rider,6465,0.23
+motor,4295,0.15
+lane/single other,394,0.01
+train,179,0.01
+lane/double other,37,0.0
+area/unknown,2,0.0

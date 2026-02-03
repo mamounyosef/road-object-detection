@@ -1,0 +1,21 @@
+Metric,Value
+Total Images,"100,000"
+Total Training Images,"70,000"
+Total Validation Images,"10,000"
+Total Test Images,"20,000"
+Total Annotated Objects,"2,777,733"
+Unique Categories,21
+Avg Objects Per Image,27.78
+Median Objects Per Image,26.0
+Most Common Category,car (36.79%)
+Detection Categories,10
+Most Common Weather,clear
+Most Common Scene,city street
+Most Common Time,daytime
+Avg Box Width,56.6 px
+Avg Box Height,49.8 px
+Avg Box Area,6754 px²
+Total Traffic Lights,"266,032"
+Most Common TL Color,green (42.5%)
+Occluded Objects,871213 (31.4%)
+Truncated Objects,127481 (4.6%)

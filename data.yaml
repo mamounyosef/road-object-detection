@@ -1,0 +1,26 @@
+# BDD100K Dataset Configuration for YOLO11 Training
+# Dataset path (relative to this file or absolute)
+path: c:\My Projects\road-object-detection\dataset
+
+# Image directories
+train: images/train
+val: images/val
+test: images/test
+
+# Number of classes
+nc: 12
+
+# Class names (indices 0-11)
+names:
+  0: car
+  1: truck
+  2: bus
+  3: person
+  4: rider
+  5: bike
+  6: motor
+  7: traffic light green
+  8: traffic light red
+  9: traffic light yellow
+  10: traffic sign
+  11: train
