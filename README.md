@@ -2,7 +2,7 @@
 
 ## Demo
 
-![demo_video](https://github.com/user-attachments/assets/8d9ab566-fc80-439f-9aaf-d17c0aabb5a8)
+![demo_video](https://github.com/user-attachments/assets/84c40e17-6142-4850-95d8-1edb77b039ea)
 
 *Real-time object detection on road scenes using trained YOLO11s model*
 
