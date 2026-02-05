@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Object Detection Demo](runs/video_predictions/watch_v_mqeUnHLOz4w.avi)
+![Object Detection Demo](runs/video_predictions/demo_video.mp4)
 
 *Real-time object detection on road scenes using trained YOLO11s model*
 
@@ -510,30 +510,18 @@ IoU measures overlap between predicted and ground truth boxes:
 
 ---
 
-## Hardware Requirements
-
-### Minimum
-
-| Component | Requirement |
-|-----------|-------------|
-| GPU | NVIDIA GTX 1660 (6GB VRAM) |
-| RAM | 16 GB |
-| Storage | 50 GB |
-
-### Recommended (Used in Training)
+## Hardware Requirements (Used in Training)
 
 | Component | Specification |
 |-----------|---------------|
 | **GPU** | NVIDIA RTX 4060 (8GB VRAM) |
-| **RAM** | 32 GB |
-| **Storage** | 100 GB SSD |
-| **OS** | Windows 10/11, Linux |
+| **RAM** | 16 GB |
 
 ### Performance Metrics
 
 | Metric | Value |
 |--------|-------|
-| Training time per epoch | ~15-20 minutes |
+| Training time per epoch | ~15-16 minutes |
 | Total training time | ~25-35 hours (87 epochs) |
 | Inference speed | ~1.8 ms/image @ 640×640 |
 | VRAM usage (training) | ~5-6 GB |
@@ -583,14 +571,6 @@ This project uses the BDD100K dataset. Please refer to the [BDD100K license](htt
 
 ## Contact
 
-For questions or issues, please open an issue on GitHub or contact [Your Name](https://github.com/mamounyosef).
+For questions or issues, please open an issue on GitHub or contact [Mamoun Yosef](https://github.com/mamounyosef).
 
 ---
-
-## Changelog
-
-### Version 1.0 (Current)
-- Initial release with YOLO11s trained on BDD100K
-- Best model at epoch 77 (mAP@0.5:0.95 = 0.269)
-- Video inference demo included
-- Comprehensive evaluation metrics
