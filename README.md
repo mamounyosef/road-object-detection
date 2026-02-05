@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Object Detection Demo](runs/video_predictions/demo_video.mp4)
+![Object Detection Demo](runs/video_predictions/demo_video compressed.mp4)
 
 *Real-time object detection on road scenes using trained YOLO11s model*
 
