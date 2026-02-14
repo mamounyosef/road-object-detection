@@ -522,7 +522,7 @@ IoU measures overlap between predicted and ground truth boxes:
 | Metric | Value |
 |--------|-------|
 | Training time per epoch | ~15-16 minutes |
-| Total training time | ~25-35 hours (87 epochs) |
+| Total training time | ~25 hours (87 epochs in my case) |
 | Inference speed | ~1.8 ms/image @ 640×640 |
 | VRAM usage (training) | ~5-6 GB |
 | VRAM usage (inference) | ~2-3 GB |
